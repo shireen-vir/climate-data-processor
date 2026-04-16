@@ -8,3 +8,6 @@ This project aims to provide a flexible and efficient way to process and analyze
 * Data ingestion from various sources * Automated data cleaning and quality control * Integration with popular data analysis libraries 
 ## Getting Started
 To get started, simply clone the repository and follow the installation instructions in the wiki.
+
+## Changelog
+- Added utility functions
